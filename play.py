@@ -1,5 +1,3 @@
-"""五子棋之人机对战"""
-
 import sys
 import random
 import pygame
